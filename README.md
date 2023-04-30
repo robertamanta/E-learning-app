@@ -1,6 +1,6 @@
 # E-learning-app
 
-This is an e-learnig application developed for my final year project.
+This is an e-learning application developed for my final year project.
 
 ##Technologies used:
 - Java Spring MVC
