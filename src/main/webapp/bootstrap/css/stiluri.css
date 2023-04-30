@@ -1,0 +1,268 @@
+html, body {
+	height: 100%;
+}
+
+.navbar {
+	margin-bottom: 0;
+	border-width: 0;
+	height: 10%;
+	width: 100%;
+	background-color: #062E29;
+	color: black;
+}
+
+.navbar-nav li a:hover {
+	color: black !important;
+}
+
+.navbar-nav li a {
+	color: white !important;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+
+.navbar-default .navbar-brand:hover {
+	color: black !important;
+}
+
+.row.content {
+	height: auto;
+	background-color:#DCF2EF;
+	
+}
+.container-fluid{
+	height: auto;
+	
+}
+.dropdown-menu {
+	border-radius: 10px;
+	/* background-color: #0c315c; ! important;
+	color: white !important; */
+}
+
+.dropdown-toggle:focus {
+	/* background-color: black; */
+}
+
+.sidenav {
+	padding-top: 10px;
+	background-color:;
+	height: 100%;
+	float: right;
+}
+
+.columns {
+	background-color: #C9E6FF;
+	height: 100%;
+}
+
+.fit {
+	height: 100%;
+}
+
+.panel-heading {
+	background-color:#118A7A !important ;
+	color:white !important;
+}
+
+.panel {
+	margin-top: 20px;
+	box-shadow: 5px 5px 5px 5px #0D695C;
+	border-color: #118A7A;
+}
+
+.panel-body{
+}
+
+.mybtn {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #118A7A!important;
+	color: white;
+	border-radius: 10px;
+	box-shadow: 0 2px black;
+	border: none;
+}
+
+.mybtn:hover {
+	color: white !important;
+	background-color: #118A7A!important;
+}
+
+.mybtn:ACTIVE {
+	color: white !important;
+	background-color: #21561F !important;
+}
+
+.optiune-meniu {
+	box-shadow: 0 10px #21561F;
+	border-radius: 20px;
+}
+
+.optiune-meniu:active {
+	background-color:#118A7A;
+	box-shadow: 0 5px #27496d;
+	transform: translateY(5px);
+}
+
+.linieOrizontala {
+	border-bottom: 1px solid #ededed;
+}
+
+.linieVerticala {
+	border-left: 1px solid #ededed;
+}
+
+.box {
+	/*border-radius:10px;*/
+	background-color: #f8f8f8;
+}
+
+.label {
+	font-size: 12px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.sectiune {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.pozitie {
+	margin-left: 50%;
+}
+
+.stergere {
+
+}
+
+.tooltip>.tooltip-inner {
+	background-color: white !important;
+	color: #27496d;
+	box-shadow: 1px 1px #27496d;
+}
+
+.stergereLectie {
+      margin-left: 10px;
+	
+}
+
+.adaugare{
+	float:right;
+}
+.lectie {
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 10%;
+	background-color: #25BED8;
+	border-radius: 5px;
+}
+
+.add{
+	background-color: #25BED8;
+}
+.login {
+	background-image: url("../images/login.jpg");
+}
+
+.login-panel {
+	margin-top: 30px;
+}
+
+.login-panel-body {
+	background-color: #A1D4CD;
+}
+
+.login-panel-head {
+	background-color: #118A7A !important;
+	padding-bottom: 50px;
+}
+
+.footer {
+	background-color: #276419;
+	height: 10%;
+
+}
+
+.fit{
+	height: 100%;
+}
+#parola-uitata {
+	float: right;
+	color: white;
+}
+
+#titlu-login {
+	float: left;
+}
+
+.meniu-body{
+	padding-top: 50px;
+	
+}
+
+.imagine-meniu{
+	height: 50%;
+	width: 50%;
+	border-radius:30px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#right{
+	float: right;
+	display: inline-block;
+}
+
+ td{
+	
+}
+.display-block{
+	display: block;
+}
+
+table{
+	width: 100%;
+
+}
+
+.thumbnail img { 
+	height: 150px;
+	width: 200px;
+ }
+.margine-10{
+	margin-top: 10px;
+}
+.margine-20{
+	margin-top: 20px;
+}
+
+.margine-15{
+	margin-top: 15px;
+}
+.capitol{
+	margin-top: 10px;
+	
+}
+
+.linie{
+	display: inline;
+}
+.error {
+	color: #ff0000;
+}
+
+.float{
+	width: 200px;
+	float: right;
+}
+.icon{
+	float:right;
+}

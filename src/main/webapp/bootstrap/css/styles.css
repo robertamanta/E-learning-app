@@ -1,0 +1,54 @@
+.bloc-principal{
+	margin-bottom: 20px;
+	margin-top: 150px;
+	font-size:120%;
+ }
+
+.box{
+   
+    box-shadow: 30px 30px ;
+ }
+body{
+	 background-color:
+	
+}
+.inputMargin{
+	
+	padding: 10px 10px 10px;
+
+}
+.loginStyle{
+	   background-color:
+}
+
+#parola-uitata{
+	float: right;
+	position: relative;
+	top: -10px;
+    text-decoration: none;
+    color:white;
+    text-shadow: black;
+}
+#panel-head{
+	background-color: 
+}
+
+#log-btn{
+	background-color: ;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
+
+#form-login{
+ 
+  
+}
+
+#creaza-cont{
+	border-top: 1px solid #888;
+    padding-top:15px;
+    font-size:85%;
+    
+    
+}
